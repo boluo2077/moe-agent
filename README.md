@@ -8,6 +8,8 @@
 
 </div>
 
+---
+
 ## ❌ Multi-Agent: An Inefficient "Cross-Department Meeting"
 
 On our journey toward AGI, we once placed our hopes in Multi-Agent architectures. The idea seemed intuitive: let multiple agents specialized in different domains work together, just like different departments in a company.
